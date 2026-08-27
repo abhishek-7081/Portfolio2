@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "siteName": "Aarav Sethi",
+    "role": "Creative Technologist & Product Designer",
+    "location": "Bengaluru / Available Worldwide",
+    "availability": "Open to select collaborations for Q4 2026",
+    "introTag": "Independent portfolio studio",
+    "heroTitleEyebrow": "Designing digital experiences with",
+    "heroTitlePrimary": "Velocity",
+    "heroTitleSecondary": "and Intent",
+    "heroDescription": "I partner with founders and brands to build cinematic web products, motion systems, and launch experiences that feel sharp, tactile, and unmistakably premium.",
+    "signatureQuote": "Interface direction for ambitious brands, launched with clarity and speed.",
+    "email": "hello@aaravsethi.design",
+    "phone": "+91 98765 43210",
+    "socialTagline": "Follow the build journey",
+    "heroStats": [
+      {
+        "id": "projects",
+        "value": "34",
+        "label": "Launches delivered"
+      },
+      {
+        "id": "years",
+        "value": "09",
+        "label": "Years crafting products"
+      },
+      {
+        "id": "impact",
+        "value": "3x",
+        "label": "Average engagement lift"
+      }
+    ],
+    "marquee": [
+      "Creative direction",
+      "Motion systems",
+      "Web experiences",
+      "Brand launches",
+      "Product storytelling"
+    ]
+  },
+  "about": {
+    "eyebrow": "About the studio",
+    "title": "Built for brands that want momentum, not decoration.",
+    "narrative": "I combine product thinking, editorial composition, and animation craft to make interfaces feel alive. My work sits between brand and product, where messaging, motion, and usability have to move as one system.",
+    "highlight": "From zero-to-one launch sites to high-conversion redesigns, I focus on detail-heavy execution that still performs under real-world constraints.",
+    "portrait": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=1200&q=80",
+    "quote": "The strongest interfaces do not shout. They guide, build tension, and release it at exactly the right moment.",
+    "quoteAuthor": "Aarav Sethi",
+    "metrics": [
+      {
+        "id": "clients",
+        "label": "Global partners",
+        "value": "18"
+      },
+      {
+        "id": "nps",
+        "label": "Repeat engagements",
+        "value": "82%"
+      },
+      {
+        "id": "industries",
+        "label": "Industries shipped",
+        "value": "07"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "id": "skill-1",
+      "name": "Creative Direction",
+      "level": "Strategy to execution",
+      "description": "Narrative systems, brand expression, launch concepts, and art direction that travel cleanly from decks into production.",
+      "tools": [
+        "Concept systems",
+        "Creative sprints",
+        "Narrative mapping"
+      ]
+    },
+    {
+      "id": "skill-2",
+      "name": "Motion-First UI",
+      "level": "High polish interactions",
+      "description": "Scroll choreography, reveal logic, transitions, and tactile micro-interactions built to feel deliberate rather than decorative.",
+      "tools": [
+        "Framer Motion",
+        "GSAP thinking",
+        "Performance tuning"
+      ]
+    },
+    {
+      "id": "skill-3",
+      "name": "Frontend Systems",
+      "level": "Robust builds",
+      "description": "Component architecture, design tokens, API wiring, and implementation details that keep premium design reliable at scale.",
+      "tools": [
+        "React",
+        "Design systems",
+        "Accessibility QA"
+      ]
+    },
+    {
+      "id": "skill-4",
+      "name": "Launch Optimization",
+      "level": "Story meets conversion",
+      "description": "Positioning, content hierarchy, and measurement plans designed to improve clarity, trust, and action.",
+      "tools": [
+        "Analytics planning",
+        "Conversion flows",
+        "Content ops"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "project-1",
+      "title": "Nexa One",
+      "category": "AI launch platform",
+      "year": "2026",
+      "summary": "A cinematic product launch site and sales experience for an enterprise AI workflow suite entering a crowded market.",
+      "impact": "Reframed a complex product into a confident, story-led buying journey that lifted qualified demo requests by 41%.",
+      "services": [
+        "Experience direction",
+        "Motion design",
+        "Frontend build"
+      ],
+      "tech": [
+        "React",
+        "Content architecture",
+        "Design tokens"
+      ],
+      "metrics": [
+        {
+          "label": "Demo uplift",
+          "value": "+41%"
+        },
+        {
+          "label": "Launch window",
+          "value": "6 weeks"
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&w=1600&q=80",
+      "link": "https://example.com/nexa-one",
+      "accent": "Chartreuse",
+      "featured": true
+    },
+    {
+      "id": "project-2",
+      "title": "Helio Commerce",
+      "category": "Luxury retail redesign",
+      "year": "2025",
+      "summary": "A premium commerce experience for a direct-to-consumer label that needed editorial presence without sacrificing speed.",
+      "impact": "Introduced a modular campaign framework and richer interaction language that improved session depth and product engagement.",
+      "services": [
+        "Visual system",
+        "Interaction design",
+        "Build supervision"
+      ],
+      "tech": [
+        "React",
+        "Headless CMS",
+        "Motion system"
+      ],
+      "metrics": [
+        {
+          "label": "Session depth",
+          "value": "+27%"
+        },
+        {
+          "label": "Lighthouse",
+          "value": "95"
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1600&q=80",
+      "link": "https://example.com/helio-commerce",
+      "accent": "Sandstone",
+      "featured": false
+    },
+    {
+      "id": "project-3",
+      "title": "Northgrid Capital",
+      "category": "Investor relations portal",
+      "year": "2025",
+      "summary": "A trust-heavy digital platform for a venture fund, balancing restraint, clarity, and a more contemporary visual edge.",
+      "impact": "Made complex fund information easier to scan and strengthened the firm's premium positioning during fundraising season.",
+      "services": [
+        "Information design",
+        "Visual language",
+        "Frontend system"
+      ],
+      "tech": [
+        "React",
+        "APIs",
+        "Performance optimization"
+      ],
+      "metrics": [
+        {
+          "label": "Investor retention",
+          "value": "+18%"
+        },
+        {
+          "label": "Core pages",
+          "value": "22"
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=1600&q=80",
+      "link": "https://example.com/northgrid-capital",
+      "accent": "Ivory",
+      "featured": false
+    },
+    {
+      "id": "project-4",
+      "title": "Pulse House",
+      "category": "Event and campaign engine",
+      "year": "2024",
+      "summary": "A flexible event ecosystem for a culture-forward media brand that needed a stronger live-program presence.",
+      "impact": "Delivered a motion-heavy landing architecture that let the team launch new campaigns fast without losing visual consistency.",
+      "services": [
+        "Campaign system",
+        "Content modeling",
+        "Rapid build"
+      ],
+      "tech": [
+        "Reusable components",
+        "Asset strategy",
+        "Editorial layouts"
+      ],
+      "metrics": [
+        {
+          "label": "Campaigns shipped",
+          "value": "14"
+        },
+        {
+          "label": "Turnaround",
+          "value": "3 days"
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1497366412874-3415097a27e7?auto=format&fit=crop&w=1600&q=80",
+      "link": "https://example.com/pulse-house",
+      "accent": "Copper",
+      "featured": false
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "company": "Studio Aarav",
+      "role": "Independent Creative Technologist",
+      "period": "2023 - Present",
+      "location": "Bengaluru / Remote",
+      "summary": "Leading concept-to-launch digital work for startups, retail brands, venture firms, and culture-led products.",
+      "achievements": [
+        "Built premium launch sites with end-to-end motion systems",
+        "Created reusable content frameworks for rapid campaigns",
+        "Partnered directly with founders and heads of brand"
+      ]
+    },
+    {
+      "id": "exp-2",
+      "company": "Lunar Labs",
+      "role": "Senior Product Designer",
+      "period": "2021 - 2023",
+      "location": "Remote",
+      "summary": "Owned product design and front-of-house launch storytelling across multiple SaaS and fintech clients.",
+      "achievements": [
+        "Established a cross-client motion and component toolkit",
+        "Reduced design-to-build handoff friction with shared tokens",
+        "Mentored junior designers on systems thinking"
+      ]
+    },
+    {
+      "id": "exp-3",
+      "company": "Northgrid",
+      "role": "Experience Designer",
+      "period": "2019 - 2021",
+      "location": "Mumbai",
+      "summary": "Designed brand sites, campaign pages, and investor-facing tools with a focus on information clarity and polish.",
+      "achievements": [
+        "Launched the company's first modular design system",
+        "Improved page performance without reducing visual ambition",
+        "Introduced motion reviews as part of QA"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach-1",
+      "title": "CSS Design Awards Feature",
+      "year": "2026",
+      "body": "Recognized for motion systems and editorial execution on a storytelling-led launch experience."
+    },
+    {
+      "id": "ach-2",
+      "title": "Awwwards Honorable Mention",
+      "year": "2025",
+      "body": "Earned for a premium commerce interface balancing visual richness with strong performance."
+    },
+    {
+      "id": "ach-3",
+      "title": "Guest Speaker, Design Forward",
+      "year": "2025",
+      "body": "Presented on translating creative direction into production-ready frontend systems."
+    },
+    {
+      "id": "ach-4",
+      "title": "40+ High-Impact Launches",
+      "year": "2024",
+      "body": "Reached a milestone across product launches, campaign sites, and portfolio-grade brand experiences."
+    }
+  ],
+  "services": [
+    {
+      "id": "service-1",
+      "title": "Launch Sites",
+      "description": "High-impact websites for product reveals, brand repositioning, and major announcements.",
+      "deliverables": [
+        "Creative direction",
+        "Motion system",
+        "Responsive frontend"
+      ]
+    },
+    {
+      "id": "service-2",
+      "title": "Product Storytelling",
+      "description": "Clearer narratives for complex products through hierarchy, interaction, and visual pacing.",
+      "deliverables": [
+        "Messaging layouts",
+        "Feature journeys",
+        "Editorial UI"
+      ]
+    },
+    {
+      "id": "service-3",
+      "title": "Design Systems",
+      "description": "Reusable foundations that preserve quality across pages, campaigns, and future growth.",
+      "deliverables": [
+        "Token systems",
+        "Component libraries",
+        "QA guidance"
+      ]
+    },
+    {
+      "id": "service-4",
+      "title": "Creative Build Support",
+      "description": "Close implementation partnership to protect design quality through the final shipped experience.",
+      "deliverables": [
+        "Build reviews",
+        "Frontend execution",
+        "Launch readiness"
+      ]
+    }
+  ],
+  "socials": [
+    {
+      "id": "social-1",
+      "label": "LinkedIn",
+      "handle": "@aaravsethi",
+      "url": "https://linkedin.com"
+    },
+    {
+      "id": "social-2",
+      "label": "GitHub",
+      "handle": "@aaravsethi",
+      "url": "https://github.com"
+    },
+    {
+      "id": "social-3",
+      "label": "Behance",
+      "handle": "@aaravsethi",
+      "url": "https://www.behance.net"
+    },
+    {
+      "id": "social-4",
+      "label": "Instagram",
+      "handle": "@aarav.sethi",
+      "url": "https://instagram.com"
+    }
+  ],
+  "contact": {
+    "title": "Ready to build something with presence?",
+    "body": "If you need a portfolio, launch site, or brand-forward product experience that feels premium and performs well, let's shape it together.",
+    "email": "hello@aaravsethi.design",
+    "phone": "+91 98765 43210",
+    "location": "Bengaluru, India",
+    "availability": "Next project slots open in October 2026",
+    "ctaLabel": "Start a project",
+    "ctaUrl": "mailto:hello@aaravsethi.design"
+  }
+}
